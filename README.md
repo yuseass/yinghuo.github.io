@@ -1,6 +1,3 @@
-# yinghuo.github.io
-
-#800
 abnormal
 abort
 abreast
@@ -167,7 +164,7 @@ chronicle
 
 chunk
 civic
-clichÃ©
+cliché
 
 closet
 
@@ -1054,3 +1051,4 @@ wither
 withhold
 wrestle
 yearn
+![image](https://user-images.githubusercontent.com/31594421/222391051-9b4d261e-3f64-4376-a288-43f22457e683.png)
